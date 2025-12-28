@@ -42,7 +42,7 @@ NumPy
 
 Matplotlib
 
-Jupyter Notebook
+Colab Research Google
 
 ## Install Dependencies:
 ```py
